@@ -1,4 +1,5 @@
 # Project-Digital-Transformation
+
 โครงงาน: Business Model Canvas สำหรับอุตสาหกรรมทันตกรรมครบวงจร (Medical Hub)
 
 - วิเคราะห์ตลาดและความต้องการของลูกค้า: ศึกษาพฤติกรรมผู้บริโภคในช่วงโรคระบาดและวางกลยุทธ์เพื่อปรับตัวให้เหมาะสม
@@ -7,13 +8,18 @@
 - วางโครงสร้างรายได้และต้นทุน: คำนวณค่าใช้จ่ายและกำหนดราคาบริการที่สมดุลกับคุณภาพ
 - สร้างพันธมิตรทางธุรกิจ: ร่วมมือกับผู้ผลิตอุปกรณ์ทางการแพทย์และบริษัทประกันสุขภาพ
 
-**ผลลัพธ์:** แผนธุรกิจที่ปรับตัวตามสถานการณ์ได้ดี มีความยืดหยุ่นและตอบสนองต่อความต้องการของตลาด<br>
+**ผลลัพธ์:** แผนธุรกิจที่ปรับตัวตามสถานการณ์ได้ดี มีความยืดหยุ่นและตอบสนองต่อความต้องการของตลาด
+
 **ทักษะที่พัฒนา:** การวางแผนธุรกิจเชิงกลยุทธ์, การวิเคราะห์ตลาด, การบริหารโครงการ, การสื่อสารและการทำงานร่วมกับพาร์ทเนอร์
-<br>
-<br>
-### ตัวอย่าง Business Model Canvas
-![Business model canvas](https://github.com/user-attachments/assets/fe7cbc14-d8dd-4ead-9db0-1d12a2345b19)
-<br>
-<br>
-### Infographic
-![infographic](https://github.com/user-attachments/assets/c929fa01-ccd3-48dc-b5e5-572ad0e4e2b8)
+
+## ตัวอย่าง Business Model Canvas
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/fe7cbc14-d8dd-4ead-9db0-1d12a2345b19" alt="Business model canvas" width="80%">
+</div>
+
+## Infographic
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c929fa01-ccd3-48dc-b5e5-572ad0e4e2b8" alt="infographic" width="80%">
+</div>
